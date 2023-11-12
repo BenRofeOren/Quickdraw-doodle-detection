@@ -8,3 +8,5 @@ download the libraries: quickdraw ,matplotlib, Pillow, pygame, tensorflow.
 insert the file final_model.py and Graphics_final.py into the project.
 
 To run the project run "Graphics_final.py".
+
+
